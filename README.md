@@ -1,6 +1,6 @@
 # Netflix Case Study: EDA using Alteryx 
+![seo-watch-free-link-preview](https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/dfee43a4-05c0-4466-a5ed-5db3909e5d5d)
 
-![alt text]("C:\Users\pankh\Downloads\seo-watch-free-link-preview.jpg")
 ***
 ## Table of Contents
 - [Introduction](#Introduction)
