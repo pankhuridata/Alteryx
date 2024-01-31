@@ -22,4 +22,14 @@ First, let’s take a look at the dataset.
 Netflix dataset consists of _8,807 rows_ of movies and TV shows and _12 columns_ providing 12 characteristics for each movie/TV show. Here is a table summarizing the columns and their description:
 
 <img width="306" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/01a6ad12-4167-4dd1-a40f-23f3d93079b4">
+***
+## Data Preparation
+In this section, we will perform data preparation tasks onthe Netflix dataset to ensure its cleanliness and suitability for analysis. We will handle missing values and duplicates and perform data type conversions as needed.
+<img width="188" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/8c81631d-998a-49f9-8755-80fc2861dabb">
 
+- I have left the null values as in alteryx we can perform the analysis without using them.
+- I have selected the columns which will be need to perform the data analysis.
+- Duplicates can distort analysis results, so it’s essential to address them. As the primary key is the show_id. Using the unique tool, all the duplicate value will be removed.
+
+ The output is:
+  <img width="893" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/124201c8-a719-434f-8134-7236a05a1cee">
