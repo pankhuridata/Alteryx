@@ -1,6 +1,6 @@
 # Netflix Case Study: EDA using Alteryx 
 
-![Alt text]("C:\Users\pankh\Downloads\seo-watch-free-link-preview.jpg")
+![alt text]("C:\Users\pankh\Downloads\seo-watch-free-link-preview.jpg")
 ***
 ## Table of Contents
 - [Introduction](#Introduction)
