@@ -46,12 +46,22 @@ In this section, we will perform data preparation tasks onthe Netflix dataset to
 <img width="294" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/d1c01447-0543-4f89-84fa-bb66bca451c1">
 
 The pie chart visualization shows that approximately 70% of the content on Netflix consists of film, while the remaining 30% are TV shows.
-### Most content creating countries
+### Which countries creates the most content?
  
 - Next, let us identify the top 10 countries where Netflix is popular.
 - In Summarize tool, configure the Summarize tool to group by the "country" column. Then, choose the "Country" aggregation method to count the occurrences of each type.
-- Then, arrange it in descending order using the "Sort" which will give me the top 10 countries with highest number of content in the library.  
+- Then, arrange it in descending order using the "Sort" which will give me the top 10 countries with highest number of content in the library.
+- Finally, using the "interactive graph" to visualize the results.
 
 <img width="403" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/48561022-edbc-46bd-94f4-0b57f27465d9">
 
 The most prolific producers of content for Netflix are the United States, India, and United Kingdom. Numerically, although India and the U.K. rank second and third among Netflix content producers, they have a significant distance behind the U.S. 
+
+### Who has directed the most content in Netflix?
+
+- Now, let us identify the top directors who have directed the highest number of movies or TV shows according to the netflix library.
+- 
+
+
+
+<img width="230" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/131a1b3b-2050-4f69-bbd9-a99828674b93">
