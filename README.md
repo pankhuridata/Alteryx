@@ -49,6 +49,9 @@ The pie chart visualization shows that approximately 70% of the content on Netfl
 ### Most content creating countries
  
 - Next, let us identify the top 10 countries where Netflix is popular.
+- In Summarize tool, configure the Summarize tool to group by the "country" column. Then, choose the "Country" aggregation method to count the occurrences of each type.
+- Then, arrange it in descending order using the "Sort" which will give me the top 10 countries with highest number of content in the library.  
 
 <img width="403" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/48561022-edbc-46bd-94f4-0b57f27465d9">
 
+The most prolific producers of content for Netflix are the United States, India, and United Kingdom. Numerically, although India and the U.K. rank second and third among Netflix content producers, they have a significant distance behind the U.S. 
