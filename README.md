@@ -44,3 +44,12 @@ In this section, we will perform data preparation tasks onthe Netflix dataset to
 To determine the distribution of content in the Netflix library, we will use Summarize and Interactive chart tool.
 - In Summarize tool, configure the Summarize tool to group by the "type" column. Then, choose the "Count" aggregation method to count the occurrences of each type.
 <img width="294" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/d1c01447-0543-4f89-84fa-bb66bca451c1">
+
+The pie chart visualization shows that approximately 70% of the content on Netflix consists of film, while the remaining 30% are TV shows.
+### Most content creating countries
+
+Next, let us identify the top 10 countries where Netflix is popular. 
+- 
+
+<img width="403" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/48561022-edbc-46bd-94f4-0b57f27465d9">
+
