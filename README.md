@@ -62,6 +62,22 @@ The most prolific producers of content for Netflix are the United States, India,
 - Now, let us identify the top directors who have directed the highest number of movies or TV shows according to the netflix library.
 - 
 
-
-
 <img width="230" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/131a1b3b-2050-4f69-bbd9-a99828674b93">
+
+### How old is the content in the Netflix library?
+
+- Netflix’s success lies in promoting a mix of both ‘old-fashioned’ content and radical advancements.
+
+### What is the target audience of Netflix?
+- 
+
+
+
+
+Some ratings are only applicable to Movies, such as PG-13, PG, NC-17, and UR. The largest groups of target audience are Adults and Teenagers, aligning with TV-MA & R ratings for adults and TV-14 & PG-13 ratings for teens — 4 in 5 most common ratings of Netflix content.
+
+### How long is the content in Netflix library?
+
+### Which genre is more popular?
+
+- Netflix offers a range of genres to subscribers, and it would be interesting to analyze this feature. One thing to notice is that most of Movie content falls into multiple genres.
