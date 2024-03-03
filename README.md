@@ -87,5 +87,7 @@ The most prolific producers of content for Netflix are the United States, India,
 
 ### Which genre is more popular?
 
-- Netflix offers a range of genres to subscribers, and it would be interesting to analyze this feature. One thing to notice is that most of Movie content falls into multiple genres.
+- There are many different genres available to Netflix subscribers, and it would be fascinating to examine this aspect. One observation is that the majority of movie content is cross-genre.
+- In Summarize tool, configure the Summarize tool to group by the "listed_in" column. Then, count the occurrences of each type of genre.
+- Then, arrange it in descending order using the "Sort" which will give the top genre.
 <img width="239" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/a678def3-e625-4eeb-add8-d4a1663affd7">
