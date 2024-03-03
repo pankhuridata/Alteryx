@@ -6,7 +6,7 @@
 - [Introduction](#Introduction)
 - [About the Data](#About-the-Data)
 - [Data Preparation](#Data-Preparation)
-- [Data Analysis](#Data-Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
 Dataset Link: [here](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ***
@@ -38,7 +38,9 @@ In this section, we will perform data preparation tasks onthe Netflix dataset to
  <img width="893" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/124201c8-a719-434f-8134-7236a05a1cee">
 
 ***
-## Data Analysis 
+## Exploratory Data Analysis 
+Exploratory Data Analysis is the process of exploring data, generating insights, testing hypotheses, checking assumptions and revealing underlying hidden patterns in the data.
+
 ### Distribution of the Content Type 
 
 - To determine the distribution of content in the Netflix library, we will use Summarize and Interactive chart tool.
@@ -60,11 +62,11 @@ The most prolific producers of content for Netflix are the United States, India,
 ### Who has directed the most content in Netflix?
 
 - Now, let us identify the top directors who have directed the highest number of movies or TV shows according to the netflix library.
-- 
+- As we can see Rajiv Chilaka from India has directed most content in Netflix.
   
-
 <img width="230" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/131a1b3b-2050-4f69-bbd9-a99828674b93">
-
+ - Now, it can also be false because there is 2,634 missing values in the director column. 
+ 
 ### How old is the content in the Netflix library?
 
 - Netflix’s success lies in promoting a mix of both ‘old-fashioned’ content and radical advancements.
