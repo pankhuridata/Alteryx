@@ -89,6 +89,13 @@ The most prolific producers of content for Netflix are the United States, India,
 
 <img width="338" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/353306ef-3296-4843-a6a2-539cee5b719e">
 
+### Which genre is more popular?
+
+- There are many different genres available to Netflix subscribers, and it would be fascinating to examine this aspect. One observation is that the majority of movie content is cross-genre.
+- In Summarize tool, configure the Summarize tool to group by the "listed_in" column. Then, count the occurrences of each type of genre.
+- Then, arrange it in descending order using the "Sort" which will give the top genre.
+<img width="239" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/a678def3-e625-4eeb-add8-d4a1663affd7">
+
 ***
 ## Conclusion
 It's evident that Netflix has expanded over time. The data indicates that the corporation used specific tactics in its marketing plan to enter new international markets. A Business Insider report states that Netflix has over 158 million customers globally, of whom 60 million are in the US and nearly 98 million are elsewhere. After its IPO, Netflix's initial customer base was limited to Americans. Its choice to enter foreign markets was largely responsible for its success. The company's content releases are prioritized by popular markets.In this particular case, it's evident that Netflix's global expansion has resulted in the addition of a sizable number of foreign films and TV series over time.
@@ -97,9 +104,3 @@ It's evident that Netflix has expanded over time. The data indicates that the co
 
 
 
-### Which genre is more popular?
-
-- There are many different genres available to Netflix subscribers, and it would be fascinating to examine this aspect. One observation is that the majority of movie content is cross-genre.
-- In Summarize tool, configure the Summarize tool to group by the "listed_in" column. Then, count the occurrences of each type of genre.
-- Then, arrange it in descending order using the "Sort" which will give the top genre.
-<img width="239" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/a678def3-e625-4eeb-add8-d4a1663affd7">
