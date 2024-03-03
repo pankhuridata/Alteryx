@@ -77,18 +77,19 @@ The most prolific producers of content for Netflix are the United States, India,
 - The graph indicates that most of the movies were released after the year 2006. From 2015 to 2019 was the time most titles were added to the streaming network as seen from the spike. Then, in year 2020, Covid-19 pandemic has stopped the increase of content due to decrease of Movies and TV-Shows production.
 
 ### Who is the target audience of Netflix?
+
 - Some ratings are only applicable to Movies, such as PG-13, PG, NC-17, and UR. The largest groups of target audience are Adults and Teenagers, aligning with TV-MA & R ratings for adults and TV-14 & PG-13 ratings for teens — 4 in 5 most common ratings of Netflix content.
   
 <img width="134" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/6a13da4e-7a3a-412a-80f6-5146e6f591a2">
 
-
 ### How long is the content in Netflix library?
+
 - Now we will look into the duration of Netflix films. Since movies are measured in time and shows are measured by seasons, we need to split the dataset between movies and TV shows.
-- The below image will  
-<img width="367" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/ee2ec097-275c-40b1-a64c-31f45610f549">
-
+- The below image shows using Select, Sort, Summarize and Sample tool to showcase the durations of the content in Netflix Library.
+<img width="367" alt="image" src="https://github.cthom/pankhuridata/Netflix-Using_Alteryx/assets/109762146/ee2ec097-275c-40b1-a64c-31f45610f549">
+- Looks like Grey's Anatomy has highest number of seasons available in Netflix followed by Supernaturals and NCIS. 
 <img width="200" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/6da3bce0-7a22-4569-be22-70bb40c7a6d4">
-
+- In the movies categories, Black Mirror: Bandersnatch from United States is the longest content available in Netflix followed by Headspace and The School of Mischief. 
 <img width="338" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/353306ef-3296-4843-a6a2-539cee5b719e">
 
 ### Which genre is more popular?
