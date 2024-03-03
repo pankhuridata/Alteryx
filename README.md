@@ -65,6 +65,7 @@ The most prolific producers of content for Netflix are the United States, India,
 - As we can see Rajiv Chilaka from India has directed most content in Netflix.
   
 <img width="230" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/131a1b3b-2050-4f69-bbd9-a99828674b93">
+
  - Now, it can also be false because there is 2,634 missing values in the director column. 
  
 ### How old is the content in the Netflix library?
@@ -74,6 +75,7 @@ The most prolific producers of content for Netflix are the United States, India,
 - Then, arrange it in descending order using the "Sort" and using interactive chart feature, we can clearly see the trend.
   
 <img width="344" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/50af9d46-d201-4418-8bb7-1af9f5b3096c">
+
 - The graph indicates that most of the movies were released after the year 2006. From 2015 to 2019 was the time most titles were added to the streaming network as seen from the spike. Then, in year 2020, Covid-19 pandemic has stopped the increase of content due to decrease of Movies and TV-Shows production.
 
 ### Who is the target audience of Netflix?
@@ -86,9 +88,12 @@ The most prolific producers of content for Netflix are the United States, India,
 
 - Now we will look into the duration of Netflix films. Since movies are measured in time and shows are measured by seasons, we need to split the dataset between movies and TV shows.
 - The below image shows using Select, Sort, Summarize and Sample tool to showcase the durations of the content in Netflix Library.
-<img width="367" alt="image" src="https://github.cthom/pankhuridata/Netflix-Using_Alteryx/assets/109762146/ee2ec097-275c-40b1-a64c-31f45610f549">
+  
+<img width="357" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/1ddc335e-ff60-4ca8-bcc0-7437bc255ae1">
+
 - Looks like Grey's Anatomy has highest number of seasons available in Netflix followed by Supernaturals and NCIS. 
 <img width="200" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/6da3bce0-7a22-4569-be22-70bb40c7a6d4">
+
 - In the movies categories, Black Mirror: Bandersnatch from United States is the longest content available in Netflix followed by Headspace and The School of Mischief. 
 <img width="338" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/353306ef-3296-4843-a6a2-539cee5b719e">
 
