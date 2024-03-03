@@ -68,8 +68,11 @@ The most prolific producers of content for Netflix are the United States, India,
 ### How old is the content in the Netflix library?
 
 - Netflix’s success lies in promoting a mix of both ‘old-fashioned’ content and radical advancements.
+- In Summarize tool, configure the Summarize tool to group by the "released_year" column. Then, count the occurrences of each year.
+- Then, arrange it in descending order using the "Sort" and using interactive chart feature, we can clearly see the trend.
+  
 <img width="344" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/50af9d46-d201-4418-8bb7-1af9f5b3096c">
-
+- The graph indicates that most of the movies were released after the year 2006. From 2015 to 2019 was the time most titles were added to the streaming network as seen from the spike. Then, in year 2020, Covid-19 pandemic has stopped the increase of content due to decrease of Movies and TV-Shows production.
 
 ### Who is the target audience of Netflix?
 - Some ratings are only applicable to Movies, such as PG-13, PG, NC-17, and UR. The largest groups of target audience are Adults and Teenagers, aligning with TV-MA & R ratings for adults and TV-14 & PG-13 ratings for teens — 4 in 5 most common ratings of Netflix content.
@@ -78,10 +81,18 @@ The most prolific producers of content for Netflix are the United States, India,
 
 
 ### How long is the content in Netflix library?
+- Now we will look into the duration of Netflix films. Since movies are measured in time and shows are measured by seasons, we need to split the dataset between movies and TV shows.
+- The below image will  
+<img width="367" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/ee2ec097-275c-40b1-a64c-31f45610f549">
 
 <img width="200" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/6da3bce0-7a22-4569-be22-70bb40c7a6d4">
 
 <img width="338" alt="image" src="https://github.com/pankhuridata/Netflix-Using_Alteryx/assets/109762146/353306ef-3296-4843-a6a2-539cee5b719e">
+
+***
+## Conclusion
+It's evident that Netflix has expanded over time. The data indicates that the corporation used specific tactics in its marketing plan to enter new international markets. A Business Insider report states that Netflix has over 158 million customers globally, of whom 60 million are in the US and nearly 98 million are elsewhere. After its IPO, Netflix's initial customer base was limited to Americans. Its choice to enter foreign markets was largely responsible for its success. The company's content releases are prioritized by popular markets.In this particular case, it's evident that Netflix's global expansion has resulted in the addition of a sizable number of foreign films and TV series over time.
+
 
 
 
